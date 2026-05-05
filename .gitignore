@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Cache
+*.cache
+
+# Rider / VSCode（可選）
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Publish
+publish/
+
+# Others
+*.tmp
+*.temp
